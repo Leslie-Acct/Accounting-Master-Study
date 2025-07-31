@@ -12,29 +12,27 @@ This repository is dedicated to bridging the gap between theoretical knowledge a
 - **a.1** MCMC & Variational Inference  
 - **a.2** Thompson Sampling & Bayesian Decision Theory  
 - **a.3** Nonparametric Bayesian Mixture Models  
-- **a.4** Probabilistic Graphical Models  
-  - **a.4.1** Hidden Markov Models for Sequential Data  
-  - **a.4.2** Conditional Random Fields for Structured Learning  
+- **a.4** Probabilistic Graphical Models (Conditional Random Fields)
 
-### c. Simulation Methods
-- **c.1** Maximum Likelihood Estimation (MLE) and Expectation-Maximization (for Gaussian Mixture Models)  
-- **c.2** Generalized Method of Moments (GMM) & Simulated Method of Moments (SMM) — Research Replication  
+### b. Simulation Methods
+- **b.1** Maximum Likelihood Estimation (MLE) and Expectation-Maximization (for Gaussian Mixture Models)  
+- **b.2** Generalized Method of Moments (GMM) & Simulated Method of Moments (SMM) — Research Replication  
 
-### d. Sequential Data (Deep Learning-Based)
-- **d.1** Transformer Models for Text Analysis  
-- **d.2** Multivariate Time Series Modeling  
-- **d.3** Deep Neural Networks for Prediction  
+### c. Sequential Data (Deep Learning-Based)
+- **c.1** Transformer Models for Text Analysis  
+- **c.2** Multivariate Time Series Modeling  
+- **c.3** Deep Neural Networks for Prediction  
 
-### f. Machine Learning
-- **f.1** Support Vector Machines & Gaussian Processes (Exemplar-Based and Kernel Methods)  
-- **f.2** Random Forests & Gradient Boosting (including XGBoost)  
-- **f.3** Non-negative Matrix Factorization & Uniform Manifold Approximation  
-- **f.4** Interpretable Methods for Model Transparency  
+### d. Machine Learning
+- **d.1** Support Vector Machines & Gaussian Processes (Exemplar-Based and Kernel Methods)  
+- **d.2** Random Forests & Gradient Boosting (including XGBoost)  
+- **d.3** Non-negative Matrix Factorization & Uniform Manifold Approximation  
+- **d.4** Interpretable Methods for Model Transparency  
 
 ### e. Financial Modeling and Risk Modeling (Job-Oriented)
 - **e.1** Syndicated Lending in Complex Structures  
 - **e.2** Debt Modeling and Cash Flow Analysis  
 - **e.3** Monte Carlo Simulation for Tail Risk Estimation  
 
-### g. Causal Inference
+### f. Causal Inference
 This section aims to compare and integrate various approaches in causal inference 
