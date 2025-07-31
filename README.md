@@ -27,7 +27,7 @@ This repository is dedicated to bridging the gap between theoretical knowledge a
 - **d.1** Support Vector Machines & Gaussian Processes (Exemplar-Based and Kernel Methods)  
 - **d.2** Random Forests & Gradient Boosting (including XGBoost)  
 - **d.3** Non-negative Matrix Factorization & Uniform Manifold Approximation  
-- **d.4** Interpretable Methods for Model Transparency  
+- **d.4** Interpretable Methods
 
 ### e. Financial Modeling and Risk Modeling (Job-Oriented)
 - **e.1** Syndicated Lending in Complex Structures  
