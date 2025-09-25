@@ -2,10 +2,10 @@
 
 *This project is based on the first assignment from the "Deep Learning in Text Analytics" course by Professor Stefan Lessmann, Humboldt-Universität zu Berlin.*
 
-##  Project Goal
+## Project Goal
 To build and compare several machine learning models to find the most accurate one for predicting a continuous target variable from a tabular dataset.
 
-##  Models & Technologies
+## Models & Technologies
 
 ### Models Benchmarked
 This project implements and evaluates four distinct regression models:
